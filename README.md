@@ -1,0 +1,1 @@
+# Mini-Project-Solving-Linear-Algebra-problem-using-SciPy
